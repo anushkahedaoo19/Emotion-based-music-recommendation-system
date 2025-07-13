@@ -5,14 +5,16 @@ Finally, the application iterates through this sorted list to recommend songs th
 
 ## Installation & Running the App
 Create a New Project
-Open PyCharm and create a new project. Add all the necessary files (including app.py, requirements.txt, and other code files) to the project directory.
+Open VS Code and create a new project. Add all the necessary files (including app.py, requirements.txt, and other code files) to the project directory.
 
 ## Install Dependencies
 Open the terminal inside PyCharm and run the following command to install all required packages:
+
 pip install -r requirements.txt
 
-##Run the Application
+## Run the Application
 Once the installation is complete, start the app by running:
+
 streamlit run app.py
 
 ## Libraries
